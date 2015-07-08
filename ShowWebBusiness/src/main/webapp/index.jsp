@@ -12,12 +12,16 @@
 <title>Insert title here</title>
 <script type="text/javascript" src="<%=basePath %>js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript">
-$(function(){
-   alert('a');
-   window.location.href='login.jsp'
-});
+function method1(){
+    $("#method1").submit();    
+} 
+function method2(){
+ window.location.replace("<%=basePath%>logi/login.do");
+}
 </script>
 </head>
-<body>
+<body onload="method2()">
+<%-- method3 <% request.getRequestDispatcher("redict/login.do").forward(request, response); %> 
+<%-- <form id="method1" action="<%=basePath%>redict/login.do" method="post"></form> --%>
 </body>
 </html>

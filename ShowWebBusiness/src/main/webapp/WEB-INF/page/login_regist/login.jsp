@@ -10,6 +10,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=GBK">
 <script type="text/javascript" src="<%=basePath %>js/jquery-1.8.2.min.js"></script>
+
 <title>管理员用户登陆注册</title>
 </head>
 <body>
@@ -26,8 +27,8 @@
 					<td><input type='text' id='username' class='username' placeholder='用户名/手机号/邮箱'/></td>
 				</tr>
 				<tr>
-					<td></td>
-					<td>b</td>
+					<td><b>密码:</b></td>
+					<td><input type="password" id='password' class='password'/></td>
 				</tr>
 			</tbody>
 		</table>
