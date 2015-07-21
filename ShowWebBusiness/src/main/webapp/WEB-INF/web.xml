@@ -11,7 +11,7 @@
     <!-- 加载spring配置文件 -->
     <context-param>
 		<param-name>contextConfigLocation</param-name>
-		<param-value>/WEB-INF/springMvc-*.xml</param-value>
+		<param-value>/WEB-INF/springMVC-*.xml</param-value>
 	</context-param>
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
@@ -23,6 +23,6 @@
   </servlet>
   <servlet-mapping>
    <servlet-name>springMVC</servlet-name>
-   <url-pattern>*.do</url-pattern>
+   <url-pattern>*.swb</url-pattern>
   </servlet-mapping>
 </web-app>

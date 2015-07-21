@@ -16,7 +16,7 @@ function method1(){
     $("#method1").submit();    
 } 
 function method2(){
- window.location.replace("<%=basePath%>logi/login.do");
+ window.location.replace("<%=basePath%>logicAction/skipLoginView.swb");
 }
 </script>
 </head>
