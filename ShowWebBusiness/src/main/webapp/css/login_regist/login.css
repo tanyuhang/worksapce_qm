@@ -1,0 +1,37 @@
+#login_div {
+	font-family: "ÐÂËÎÌå";
+}
+#login_div {
+	background-color: #999999;
+	position: absolute;
+	visibility: visible;
+	height: 197px;
+	width: 313px;
+	left: 405px;
+	top: 150px;
+	right: 200px;
+	bottom: 150px;
+}
+
+#login_div #login_tab {
+	font-family: "ËÎÌå";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	background-color: #999966;
+	background-position: center center;
+	text-align: center;
+	white-space: normal;
+	margin: 1px;
+	padding: 1px;
+	float: right;
+	height: 200px;
+	width: 600px;
+	border: medium double #CC99FF;
+}
+
+#login_div #login_tab td {
+border:medium double #FFCC66
+}
