@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-@Controller("logicActionController")
+ @Controller("logicActionController")
 @RequestMapping(value="/logicAction")
 public class LogicActionController {
 
