@@ -42,7 +42,7 @@ $("#checkcode").val(parseInt(Math.random()*8899+1000));
   </head>
 <body>
 	<div id='login_div'>
-	<form  name='loginform' id="loginform" method="post" action='<%=basePath%>logicAction/loginMethon.swb'>
+	<form  name='loginform' id="mloginform" method="post" action='<%=basePath%>logicAction/mloginMethon.swb'>
 		<table class="login_tab" id="login_tab">
 			<thead>
 				<tr>
@@ -67,7 +67,7 @@ $("#checkcode").val(parseInt(Math.random()*8899+1000));
 				</tr>
 				<tr>				    
 				  <td height="38" colspan="2"><input type='submit' id='login_submit' class='login_submit' value="提交" onClick="return submitC()"/></td>
-				  <td height="38" colspan="2"><input type='reset'  value="重置""/></td>
+				  <td height="38" colspan="2"><input type='reset'  value="重置"/></td>
 				</tr>
 		  </tbody>
 	  </table>

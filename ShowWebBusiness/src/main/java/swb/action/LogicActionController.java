@@ -16,9 +16,9 @@ public class LogicActionController {
 	 * 管理员访问项目，默认跳转到登陆视图
 	 * @return
 	 */
-	@RequestMapping(value="/m_SkipLoginView.swb")
+	@RequestMapping(value="/mSkipLoginView.swb")
 	public String LoginMethon(){
-		return "login_regist/login";
+		return "loginregist/mlogin";
 	}
 	
 	/**
@@ -26,10 +26,10 @@ public class LogicActionController {
 	 * @param lf
 	 * @return
 	 */
-	@RequestMapping(value="/loginMethon.swb",method = RequestMethod.POST)
-	public String LoginMethon1(@ModelAttribute("loginform")ManagerLogin lf){
+	@RequestMapping(value="/mloginMethon.swb",method = RequestMethod.POST)
+	public String LoginMethon1(@ModelAttribute("mloginform")ManagerLogin lf){
 		log.info(lf.getUsername() +"  "+lf.getPassword() );
 		//System.out.println(lf.getUsername() +"  "+lf.getPassword() );
-		return "login_regist/login";
+		return "manager/home";
 	}
 }
