@@ -1,0 +1,206 @@
+[BS]  2015-07-23 09:12:42  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 09:12:42  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 09:12:42 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 09:12:42  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 09:12:43  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 09:12:43  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 09:12:43  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 09:12:43  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3a087286: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 09:12:43  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 344 ms
+[BS]  2015-07-23 09:12:43  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 09:12:43  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 09:12:43 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 09:12:43  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 09:12:43  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 09:12:43  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 09:12:43  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 09:12:43  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@130c6c6b: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@3a087286
+[BS]  2015-07-23 09:12:43  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 09:12:43  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 09:12:43  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 125 ms
+[BS]  2015-07-23 09:12:56  INFO LogicActionController:31 : e  d
+[BS]  2015-07-23 15:06:25  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:06:25  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:06:25 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:06:25  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:06:25  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:06:25  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:06:25  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:06:25  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1bd11b79: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:06:25  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 393 ms
+[BS]  2015-07-23 15:06:25  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:06:25  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:06:25 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:06:25  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:06:25  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:06:25  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:06:25  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:06:25  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@486ca716: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@1bd11b79
+[BS]  2015-07-23 15:06:25  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:06:25  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:06:25  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 151 ms
+[BS]  2015-07-23 15:07:04  INFO LogicActionController:31 : b  g
+[BS]  2015-07-23 15:10:09  INFO LogicActionController:31 : b  g
+[BS]  2015-07-23 15:13:51  INFO LogicActionController:31 : b  f
+[BS]  2015-07-23 15:18:36  INFO LogicActionController:31 : b  g
+[BS]  2015-07-23 15:19:01  INFO LogicActionController:31 : b  d
+[BS]  2015-07-23 15:53:34  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:53:34  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:53:34 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:53:34  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:53:35  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:53:35  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:53:35  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:53:35  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5c64a871: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:53:35  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 451 ms
+[BS]  2015-07-23 15:53:35  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:53:35  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:53:35 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:53:35  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:53:35  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:53:35  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:53:35  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:53:35  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@321a30a0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@5c64a871
+[BS]  2015-07-23 15:53:35  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:53:35  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:53:35  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 15:53:35  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 175 ms
+[BS]  2015-07-23 15:53:44  INFO XmlWebApplicationContext:1002 : Closing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:06:25 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:53:44  INFO DefaultListableBeanFactory:422 : Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@486ca716: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@1bd11b79
+[BS]  2015-07-23 15:53:44  INFO XmlWebApplicationContext:1002 : Closing Root WebApplicationContext: startup date [Thu Jul 23 15:06:25 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:53:44  INFO DefaultListableBeanFactory:422 : Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1bd11b79: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:53:45  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:53:45  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:53:45 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:53:45  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:53:45  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:53:45  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:53:45  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:53:45  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27299442: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:53:45  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 314 ms
+[BS]  2015-07-23 15:53:45  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:53:45  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:53:45 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:53:45  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:53:46  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:53:46  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:53:46  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:53:46  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6e6ca837: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@27299442
+[BS]  2015-07-23 15:53:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:53:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:53:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 15:53:46  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 185 ms
+[BS]  2015-07-23 15:53:52  INFO LogicActionController:31 : b  d
+[BS]  2015-07-23 15:55:51  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:55:51  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:55:51 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:55:51  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:55:51  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:55:51  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:55:51  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:55:51  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@608d116e: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:55:51  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 377 ms
+[BS]  2015-07-23 15:55:51  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:55:51  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:55:51 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:55:51  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:55:51  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:55:51  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:55:51  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:55:51  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5087c7a8: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@608d116e
+[BS]  2015-07-23 15:55:51  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:55:51  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:55:51  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 15:55:51  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 167 ms
+[BS]  2015-07-23 15:56:08  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:56:08  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:56:08 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:56:08  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:56:08  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:56:08  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:56:08  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:56:08  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7885bf5f: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:56:08  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 423 ms
+[BS]  2015-07-23 15:56:08  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:56:08  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:56:08 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:56:08  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:56:08  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:56:08  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:56:08  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:56:08  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4382f3da: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@7885bf5f
+[BS]  2015-07-23 15:56:08  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:56:08  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:56:08  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 15:56:08  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 148 ms
+[BS]  2015-07-23 15:56:15  INFO LogicActionController:31 : b  f
+[BS]  2015-07-23 15:56:19  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:56:23  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:56:24  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:56:25  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:58:03  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:58:27  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 15:58:27  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 15:58:27 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 15:58:27  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:58:27  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:58:27  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:58:27  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:58:27  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@ca047d3: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 15:58:27  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 389 ms
+[BS]  2015-07-23 15:58:27  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 15:58:27  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 15:58:27 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 15:58:27  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 15:58:27  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 15:58:27  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 15:58:27  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 15:58:27  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7213f866: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@ca047d3
+[BS]  2015-07-23 15:58:27  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:58:27  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 15:58:27  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 15:58:27  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 137 ms
+[BS]  2015-07-23 15:58:30  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:58:31  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:58:34  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 15:58:42  INFO LogicActionController:31 : b  d
+[BS]  2015-07-23 15:58:43  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:00:24  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:00:52  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:01:00  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:12:48  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:13:03  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:13:12  INFO LogicActionController:31 : b  d
+[BS]  2015-07-23 16:13:37  INFO LogicActionController:31 : b  d
+[BS]  2015-07-23 16:14:13  INFO LogicActionController:31 : d  d
+[BS]  2015-07-23 16:19:41  INFO LogicActionController:31 : d  d
+[BS]  2015-07-23 16:40:50  INFO LogicActionController:31 : d  d
+[BS]  2015-07-23 16:41:43  INFO LogicActionController:31 : d  d
+[BS]  2015-07-23 16:43:09  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-23 16:43:09  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Thu Jul 23 16:43:09 CST 2015]; root of context hierarchy
+[BS]  2015-07-23 16:43:09  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 16:43:09  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 16:43:09  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 16:43:09  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 16:43:09  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1ff6c2a9: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-23 16:43:09  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 386 ms
+[BS]  2015-07-23 16:43:09  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-23 16:43:09  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Thu Jul 23 16:43:09 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-23 16:43:09  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-23 16:43:09  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-23 16:43:09  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-23 16:43:09  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-23 16:43:09  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27ce487b: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@1ff6c2a9
+[BS]  2015-07-23 16:43:09  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 16:43:09  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-23 16:43:09  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-23 16:43:09  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 164 ms
+[BS]  2015-07-23 16:43:42  INFO LogicActionController:34 : d  d
+[BS]  2015-07-23 16:43:47  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:48  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:49  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:49  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:49  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:43:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:51  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:51  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:51  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:44:51  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:45:26  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:46:16  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:46:35  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:53:47  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 16:58:14  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 17:02:05  INFO NavigationActionController:21 : mb
+[BS]  2015-07-23 17:43:14  INFO NavigationActionController:21 : mb

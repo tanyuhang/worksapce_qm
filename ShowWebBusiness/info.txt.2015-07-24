@@ -1,0 +1,41 @@
+[BS]  2015-07-24 11:40:45  INFO ContextLoader:187 : Root WebApplicationContext: initialization started
+[BS]  2015-07-24 11:40:45  INFO XmlWebApplicationContext:456 : Refreshing Root WebApplicationContext: startup date [Fri Jul 24 11:40:45 CST 2015]; root of context hierarchy
+[BS]  2015-07-24 11:40:45  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-24 11:40:45  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-24 11:40:45  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-24 11:40:45  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-24 11:40:45  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@17f74864: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; root of factory hierarchy
+[BS]  2015-07-24 11:40:45  INFO ContextLoader:214 : Root WebApplicationContext: initialization completed in 375 ms
+[BS]  2015-07-24 11:40:45  INFO DispatcherServlet:301 : FrameworkServlet 'springMVC': initialization started
+[BS]  2015-07-24 11:40:45  INFO XmlWebApplicationContext:456 : Refreshing WebApplicationContext for namespace 'springMVC-servlet': startup date [Fri Jul 24 11:40:45 CST 2015]; parent: Root WebApplicationContext
+[BS]  2015-07-24 11:40:45  INFO XmlBeanDefinitionReader:315 : Loading XML bean definitions from ServletContext resource [/WEB-INF/springMVC-servlet.xml]
+[BS]  2015-07-24 11:40:46  INFO ClassPathBeanDefinitionScanner:178 : JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+[BS]  2015-07-24 11:40:46  INFO ClassPathBeanDefinitionScanner:186 : JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+[BS]  2015-07-24 11:40:46  INFO AutowiredAnnotationBeanPostProcessor:137 : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[BS]  2015-07-24 11:40:46  INFO DefaultListableBeanFactory:555 : Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4240eca3: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,logicActionController,navigationActionController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@17f74864
+[BS]  2015-07-24 11:40:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mSkipLoginView.swb] onto handler 'logicActionController'
+[BS]  2015-07-24 11:40:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/logicAction/mloginMethon.swb] onto handler 'logicActionController'
+[BS]  2015-07-24 11:40:46  INFO DefaultAnnotationHandlerMapping:411 : Mapped URL path [/navigation/navigationmb.swb] onto handler 'navigationActionController'
+[BS]  2015-07-24 11:40:46  INFO DispatcherServlet:320 : FrameworkServlet 'springMVC': initialization completed in 125 ms
+[BS]  2015-07-24 11:44:59  INFO LogicActionController:34 : a  d
+[BS]  2015-07-24 11:45:33  INFO LogicActionController:34 : a  d
+[BS]  2015-07-24 11:45:38  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 11:45:39  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 11:45:39  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 11:45:39  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 11:45:39  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 11:45:40  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:11:24  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:11:36  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:09  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:11  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:11  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:11  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:11  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:12  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:12:50  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:13:25  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:13:27  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:13:27  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:13:28  INFO NavigationActionController:21 : mb
+[BS]  2015-07-24 15:16:06  INFO NavigationActionController:21 : mb
