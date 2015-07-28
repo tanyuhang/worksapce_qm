@@ -33,5 +33,6 @@
 }
 
 #login_div #login_tab td {
-border:medium double #FFCC66
+border:medium double #FFCC66;
+text-align:left;
 }
